@@ -31,6 +31,7 @@ LLC.
 - [Program Overview](research/program-overview.md) — purpose, hypothesis, and program structure
 - [Terminology](research/terminology.md) — hierarchy, core terms, metric abbreviations
 - [Program Roadmap](research/roadmap.md) — study and track sequence, phase structure, and the consortium participation model
+- [External Research Landscape](research/external-landscape.md) — high-level positioning against six external multi-agent research programs (CEC, SWEET-RL, MAGRPO, RAG-MAS, Gal & Grosz, TaskForce)
 
 ## Essays
 

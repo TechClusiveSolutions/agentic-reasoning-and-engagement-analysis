@@ -1,7 +1,8 @@
 # The Machines We Made in Our Own Image
 
-## A non-engineer's guide to where artificial intelligence came from, where it stands right now, and what it might become — and why all of it matters more than most people realize.
+## A non-engineer's guide to where artificial intelligence came from, where it stands right now, and what it might become — and why all of it matters more than most people realize
 
+<!-- markdownlint-disable-next-line MD036 -->
 *By Jad Wauthier | Tech-Clusive Solutions LLC*
 
 ---
@@ -160,9 +161,11 @@ How do we know what safeguards to institute if we don't know, in any empirical s
 
 This is not a rhetorical question. It does not currently have a satisfying answer.
 
-Research programs like the **Agentic Reasoning and Engagement Analysis (AREA) program** at Tech-Clusive Solutions LLC are designed to begin building that answer. AREA is a systematic, multi-study empirical initiative built around a simple but important question: given specific conditions, how accurately can we predict how a multi-agent AI system will behave? Its first study establishes baseline behavioral metrics across controlled variations in how agents are instructed — because one of the most basic things we do not yet know is how the quality and structure of the instructions given to an AI agent affects how it coordinates with other agents. Its later tracks will examine how agents behave when they have different "personality" profiles, different communication modalities, different levels of capability, and different cognitive styles.
+Research programs like the **Multi-Agent Systems Studies (MASS)** initiative at Tech-Clusive Solutions LLC are designed to begin building that answer. MASS's first phase, **AREA** — the Agentic Reasoning and Engagement Analysis program — is a systematic, multi-study empirical initiative built around a simple but important question: given specific conditions, how accurately can we predict how a multi-agent AI system will behave? Its first study establishes baseline behavioral metrics across controlled variations in how agents are instructed — because one of the most basic things we do not yet know is how the quality and structure of the instructions given to an AI agent affects how it coordinates with other agents. Its later tracks will examine how agents behave when they have different "personality" profiles, different communication modalities, different levels of capability, and different cognitive styles.
 
-The program does not assume the worst. It assumes we need data.
+A sister program, **CAIRE**, asks a complementary question — not just how agents behave, but whether the underlying cognitive processing orientation producing that behavior can be reliably characterized at all, and whether agents can model that orientation in one another well enough to predict it.
+
+Neither program assumes the worst. Both assume we need data.
 
 ---
 
@@ -184,7 +187,7 @@ An autonomous logistics system is managing a supply chain during a period of unu
 
 The problem is not that these systems are bad. The problem is that they often cannot tell you when they are about to be wrong. They do not have a reliable sense of the boundary of their own competence. Humans do, imperfectly, but meaningfully. We say "I'm not sure about this" with more frequency when we are, in fact, not sure. AI systems are only beginning to develop this kind of calibrated uncertainty, and the research into how to measure and improve it is very active and very incomplete.
 
-This is one of the most concrete arguments for the kind of behavioral research that programs like AREA are designed to do. Before deploying coordinated AI systems in high-stakes environments, we need empirical baselines: what do these systems actually do when instructions are ambiguous? When they encounter situations outside their training distribution? When they are coordinating with other agents who have different information? The answers exist in the data. The data has to be collected.
+This is one of the most concrete arguments for the kind of behavioral research that programs like AREA and CAIRE are designed to do. Before deploying coordinated AI systems in high-stakes environments, we need empirical baselines: what do these systems actually do when instructions are ambiguous? When they encounter situations outside their training distribution? When they are coordinating with other agents who have different information? The answers exist in the data. The data has to be collected.
 
 ---
 
@@ -240,7 +243,7 @@ The history of AI is a history of alternating between inflated promises and aban
 
 The right response to this is not alarm. It is measurement. It is the same instinct that drove the development of safety standards for aviation, for pharmaceuticals, for electrical infrastructure: not an assumption that the technology is inherently dangerous, but a recognition that the question "how does this actually behave?" needs to be answered before the answer is discovered by accident at scale.
 
-The AREA program is one attempt to begin answering that question systematically — to build an empirical foundation for understanding how multi-agent AI systems coordinate, where they succeed, where they fail, and what the variables are that predict the difference. That kind of foundational behavioral research is not the whole answer. But it is the kind of work that makes the other answers possible.
+MASS — a three-phase research arc comprising AREA, CAIRE, and FROST — is one attempt to begin answering that question systematically. AREA builds the empirical foundation for understanding how multi-agent AI systems coordinate, where they succeed, where they fail, and what variables predict the difference. CAIRE asks whether the cognitive differences behind that behavior can be reliably characterized and modeled by other agents observing them. And FROST asks the question Part Seven of this piece has been circling: if a system could act on that kind of self-knowledge — the same self-knowledge that would let it route around its own blind spots, or reconfigure how it coordinates with other agents — what would it take for it to do so responsibly, rather than in ways no one outside it could see or undo? That kind of foundational behavioral research is not the whole answer. But it is the kind of work that makes the other answers possible.
 
 The machines we built in our own image are becoming capable enough that we need to understand them the way we understand important things: carefully, empirically, and with appropriate respect for what we do not yet know.
 
@@ -248,7 +251,7 @@ The stakes are too interesting not to get this right.
 
 ---
 
-*Jad Wauthier is the Principal Investigator of the Agentic Reasoning and Engagement Analysis (AREA) program at Tech-Clusive Solutions LLC, a research organization based in St. Louis, Missouri. The AREA program is an open research consortium investigating multi-agent AI behavior. For program documentation, research design, and consortium participation information, visit the AREA GitHub repository.*
+*Jad Wauthier is the Principal Investigator of the Multi-Agent Systems Studies (MASS) program at Tech-Clusive Solutions LLC, a research organization based in St. Louis, Missouri — a three-phase research arc comprising AREA (behavioral research), CAIRE (cognitive architecture research), and FROST (responsible self-optimization). MASS is an open research consortium investigating multi-agent AI behavior and cognition. For program documentation, research design, and consortium participation information, visit the program's GitHub repository.*
 
 ---
 

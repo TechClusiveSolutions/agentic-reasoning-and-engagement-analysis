@@ -26,13 +26,13 @@ It is run by Jad Wauthier on behalf of Tech-Clusive Solutions LLC.
   coordination quality.
 - **[CAIRE](research/caire-overview.md)** — Cognitive Architecture for
   Intuitive Reasoning Exploration. Studies what agents *are*: whether
-  distinct cognitive processing orientations can be reliably assigned to
-  agents and detected in their behavior.
+  cognitive processing profiles can be reliably assigned, expressed, and
+  mutually modeled by agents observing each other.
 - **[FROST](research/frost-overview.md)** — Framework for Responsible
   Optimization and Self-Directed Transformation. The convergence phase:
-  whether a system can use AREA and CAIRE's findings to model its own
-  architecture and improve itself, under a governance framework requiring
-  every change to be bounded, audited, and reversible.
+  whether a system can turn AREA and CAIRE's findings onto itself to model
+  its own architecture and reconfigure it, under a safety framework that
+  keeps every change bounded, audited, and reversible.
 
 ## Start here
 

@@ -63,6 +63,26 @@ that implements them — are the part of FROST meant to generalize: any
 self-modifying AI system, regardless of its specific architecture, can be
 asked whether it satisfies them.
 
+## Where FROST Sits in the Program Arc
+
+- **AREA** (Studies 1–6) produces the empirical behavioral library:
+  instruction quality as a predictor of coordination quality (Study 1),
+  failure mode signatures under adversarial pressure (Study 2), emergent
+  protocol formation and longitudinal context transfer (Study 3), authority
+  dynamics and antagonism (Study 4), social pressure and epistemic conflict
+  (Study 5), and heterogeneous capability teaching dynamics (Study 6).
+- **CAIRE** (Pilot Study 1, Study 2, Study 3) produces the cognitive
+  architecture characterization: whether cognitive function profiles can be
+  reliably assigned and behaviorally expressed (Pilot Study 1), whether that
+  expression survives unbounded, no-ground-truth domains (Study 2), and —
+  critically — whether actors can accurately model *each other's* cognitive
+  profiles well enough to predict behavior (Study 3).
+- **FROST** takes both outputs and asks whether a system can turn that
+  modeling capacity onto itself: observing its own component agents the way
+  CAIRE Study 3 tests actors observing each other, and using what it learns
+  to reconfigure its own architecture in response to the failure patterns
+  AREA's six studies document.
+
 ## Hypothesis
 
 If the behavioral relationships AREA establishes and the cognitive
@@ -72,6 +92,14 @@ reliabilities and blind spots through observation alone — without
 inspecting model weights or requiring retraining — and can use that
 self-knowledge to improve its own coordination, provided every change it
 makes to itself is bounded, audited, and reversible.
+
+FROST's development is gated on a specific, falsifiable condition rather
+than an open-ended aspiration: whether CAIRE Study 3 finds that actors can
+reliably model each other's cognitive profiles well enough to predict
+behavior. If that mutual-modeling capacity turns out not to be reliable
+enough, FROST development pauses pending investigation — not as a program
+failure, but as a finding that correctly prevents building a
+self-reconfiguration architecture on a foundation that would not support it.
 
 ## Program Name and Identity
 
@@ -86,7 +114,8 @@ makes to itself is bounded, audited, and reversible.
 FROST's development depends on findings from both AREA and CAIRE that do
 not yet exist. It is currently a defined theoretical framework, not an
 active study — see the [Program Roadmap](roadmap.md) for how the three
-phases of MASS are sequenced.
+phases of MASS are sequenced, and [CAIRE Program Overview](caire-overview.md)
+for the Study 3 gate condition FROST depends on.
 
 ---
 

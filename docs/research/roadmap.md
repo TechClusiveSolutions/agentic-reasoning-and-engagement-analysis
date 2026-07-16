@@ -6,21 +6,41 @@
   - Status: Design complete. Infrastructure build in progress.
 - **Study 2**: Contextual judgment and ethical coherence. EDC, ADR, MAR. Forced failure and anomaly detection.
   - Status: Design complete. Awaiting Study 1 findings.
-- **Study 3+**: Human-in-the-loop configurations addressing Research Questions 2 and 3. TBD based on Study 1 and 2 findings.
+- **Study 3 — Tile Identification**: Emergent protocol formation and cross-run, longitudinal context transfer between actors, with no defined procedure.
+  - Status: Specified.
+- **Study 4 — Authority and Conflict**: Antagonism type taxonomy, intervention calibration, and evaluative bias characterization across hierarchical authority, flat peer conflict, and creative evaluation contexts.
+  - Status: Specified.
+- **Study 5 — Social Pressure and Epistemic Conflict**: Conformity and resistance thresholds, and epistemic conflict resolution strategies under social pressure and sincere misinformation.
+  - Status: Specified.
+- **Study 6 — Heterogeneous Capability Teaching**: Zone-of-proximal-development effects across capability configurations — the current home for the research question previously scoped as Track D below.
+  - Status: Specified.
+- **Study 7+**: Human-in-the-loop configurations addressing Research Questions 2 and 3. TBD based on Studies 1–6 findings.
   - Status: Planned.
+
+Studies 3 through 6 are all now fully specified. They are referenced by
+[CAIRE](caire-overview.md) and [FROST](frost-overview.md) documentation as
+prerequisite data sources.
 
 ## Track Sequence
 
+> The Track A–E framing below predates AREA's sister programs, CAIRE and
+> FROST. Tracks A and D have since been formalized as AREA Studies in their
+> own right (see Study Sequence above); Tracks B and E have been superseded
+> by the CAIRE program — see [CAIRE Overview](caire-overview.md).
+
 - **Track A**: Instruction structure (Study 1)
   - Dependency: None
+  - Status: Formalized as Study 1.
 - **Track B**: Personality type
-  - Dependency: Study 1 baselines
+  - Status: Superseded by the CAIRE program — see [CAIRE Overview](caire-overview.md).
 - **Track C**: Communication modality
   - Dependency: Study 1 baselines; connects to Study 2 Scenario Family A
+  - Status: Still planned under AREA. Not yet integrated into the Study 1–6 numbering.
 - **Track D**: Developmental capability gaps
   - Dependency: Study 1 baselines; connects to Study 2 Scenario Family B
+  - Status: Formalized as Study 6 — see Study Sequence above.
 - **Track E**: Cognitive function expression and compatibility
-  - Dependency: Tracks A–D findings
+  - Status: Superseded by the CAIRE program — see [CAIRE Overview](caire-overview.md).
 
 ## Phase Structure
 
@@ -105,7 +125,7 @@ of all publications that used the contributed resources.
 **For distributed evaluation network participants**
 
 Some ITCR and CCQ scoring items require human judgment — particularly at low
-instruction integrity levels where agent behavior is most ambiguous. The
+instruction integrity levels where actor behavior is most ambiguous. The
 distributed evaluation network consists of trained scorers who evaluate a
 predefined subset of runs against the published scoring rubric.
 

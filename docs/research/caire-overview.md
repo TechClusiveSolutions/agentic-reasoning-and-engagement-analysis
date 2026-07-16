@@ -17,7 +17,7 @@ CAIRE — Cognitive Architecture for Intuitive Reasoning Exploration — is the
 second phase of MASS, running parallel to [AREA](program-overview.md). Where
 AREA studies what multi-agent systems **do** — how they coordinate, fail,
 escalate, and reason under varying conditions — CAIRE studies what they
-**are** at the level of cognitive architecture: how agents' information-
+**are** at the level of cognitive architecture: how actors' information-
 handling profiles differ, what those differences predict about behavior, and
 whether the differences are stable enough to be systematically assigned and
 measured.
@@ -26,7 +26,7 @@ measured.
 
 The two programs are designed to inform each other. AREA's findings
 constrain what CAIRE's theory can responsibly claim — if AREA observes that
-agents never reliably change a behavior regardless of how they're
+actors never reliably change a behavior regardless of how they're
 instructed, CAIRE cannot build a framework that assumes that behavior is
 producible through instruction alone. Conversely, CAIRE's findings enrich how
 AREA's behavioral observations are interpreted — if CAIRE establishes that
@@ -55,9 +55,9 @@ than competing:
 ## Core Hypothesis
 
 > If instruction priming functions as this kind of dynamic, attention-level
-> biasing, then cognitive processing profiles — which specify an agent's
+> biasing, then cognitive processing profiles — which specify an actor's
 > reference frame and processing orientation — should produce reliably
-> detectable, theory-consistent differences in agent behavior.
+> detectable, theory-consistent differences in actor behavior.
 
 CAIRE's studies test whether those differences are large enough, consistent
 enough, and theory-consistent enough to be treated as a valid empirical
@@ -74,11 +74,27 @@ assigns can be reliably produced and detected at all.
 - **Principal Investigator**: Jad Wauthier, on behalf of Tech-Clusive
   Solutions LLC
 
+## Studies
+
+- **Pilot Study 1** — tests whether cognitive function profiles can be
+  reliably assigned to actors through instruction priming and detected
+  behaviorally, and whether systematically paired actors interact in the
+  ways cognitive function theory predicts.
+- **Study 2** — extends profile testing into open-ended generative domains
+  with no ground truth: philosophical reasoning, constraint transformation
+  under impossibility, and role performance under values conflict.
+- **Study 3 — Dynamic Theory of Mind** *(specification pending)* — tests
+  whether actors can accurately model another actor's cognitive processing
+  orientation and predict behavioral consequences from that model alone.
+  This study is a gate condition for [FROST](frost-overview.md): FROST's
+  self-modeling premise depends on whether this kind of mutual modeling
+  proves reliable.
+
 ## Status
 
-CAIRE is currently in the planning phase, with its first pilot study not yet
-underway. Detailed study designs, metrics, and findings will be published
-here as they become available.
+CAIRE's Pilot Study 1 and Study 2 are specified; Study 3 is planned pending
+Pilot Study 1's completion. Detailed study designs, metrics, and findings
+will be published here as they become available.
 
 ---
 

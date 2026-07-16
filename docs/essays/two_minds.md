@@ -1,7 +1,8 @@
 # Two Minds
 
-## What we know about thinking — in humans, in machines, and in the growing space between them.
+## What we know about thinking — in humans, in machines, and in the growing space between them
 
+<!-- markdownlint-disable-next-line MD036 -->
 *By Jad Wauthier | Tech-Clusive Solutions LLC*
 
 ---
@@ -150,7 +151,11 @@ We are deploying systems that exhibit cognitive-like behaviors — perceiving, i
 
 The parallel histories of cognitive science and AI research have given us remarkable tools and genuinely important knowledge. They have also left us with a set of open questions that are no longer safely academic. What is the relationship between performance and understanding? Between cognitive profile and coordination? Between the structure of an instruction and the behavior it produces in a system that does not experience the instruction the way a human would?
 
-These are the questions that the **AREA program** — the Agentic Reasoning and Engagement Analysis initiative at Tech-Clusive Solutions LLC — is designed to begin answering empirically. Not with theories, but with data. AREA's cognitive science tracks map directly onto the gaps described above: Track B investigates how personality profiles shape coordination in multi-agent AI systems, asking whether the frameworks human psychology has developed for understanding team dynamics translate to artificial agents. Track D examines capability gaps and scaffolding — whether Vygotsky's zone of proximal development has an analog in human-AI collaboration, and what the implications are for how AI systems are deployed alongside humans at different capability levels. Track E explores cognitive compatibility between agents — whether systematically characterized cognitive profiles predict coordination success or failure, and whether a compatibility function analogous to what we use in human team research can be built for artificial systems.
+These are the questions that **MASS — the Multi-Agent Systems Studies initiative at Tech-Clusive Solutions LLC — is designed to begin answering empirically**. Not with theories, but with data, across three linked research programs. **AREA**, the Agentic Reasoning and Engagement Analysis program, maps directly onto several of the gaps described above: its tracks investigate how personality profiles shape coordination in multi-agent systems, asking whether the frameworks human psychology has developed for team dynamics translate to artificial agents; how capability gaps and scaffolding behave when agents of different capability levels work together, asking whether Vygotsky's zone of proximal development has an analog in human-AI collaboration; and how cognitive compatibility between agents predicts coordination success or failure.
+
+**CAIRE**, the Cognitive Architecture for Intuitive Reasoning Exploration program, takes the cognitive-profile question further: it asks whether agents can not only express a characterized processing orientation, but accurately model *each other's* orientation well enough to predict behavior from it — the same kind of mutual modeling two people bring into any working relationship.
+
+And **FROST** asks the question this essay has been circling from its opening pages: if a system could build that kind of model of itself, what would it take for it to act on that knowledge responsibly? FROST's premise is that a multi-agent system's own behavioral data, combined with a reliable model of its own cognitive architecture, can be the basis for a system that improves itself — under a governance framework that keeps every change it makes to itself bounded, audited, and reversible, rather than invisible and irreversible.
 
 These are not the only questions worth asking. They are a beginning — a structured attempt to bring the same empirical rigor to the study of AI cognition that cognitive science brought to the study of human cognition seventy years ago.
 
@@ -158,7 +163,7 @@ The two fields were born in the same room, on the same September day in 1956. Th
 
 ---
 
-*Jad Wauthier is the Principal Investigator of the Agentic Reasoning and Engagement Analysis (AREA) program at Tech-Clusive Solutions LLC, a research organization based in St. Louis, Missouri. The AREA program is an open research consortium investigating multi-agent AI behavior. This document is intended to be read alongside "The Machines We Made in Our Own Image," a companion piece covering the technical trajectory of artificial intelligence. Both documents live in the AREA GitHub repository.*
+*Jad Wauthier is the Principal Investigator of the Multi-Agent Systems Studies (MASS) program at Tech-Clusive Solutions LLC, a research organization based in St. Louis, Missouri — a three-phase research arc comprising AREA (behavioral research), CAIRE (cognitive architecture research), and FROST (responsible self-optimization). MASS is an open research consortium investigating multi-agent AI behavior and cognition. This document is intended to be read alongside "The Machines We Made in Our Own Image," a companion piece covering the technical trajectory of artificial intelligence. Both documents live in the program's GitHub repository.*
 
 ---
 
